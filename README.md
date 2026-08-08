@@ -1,4 +1,3 @@
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_kashav_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-34a2a3292/) 
@@ -17,6 +16,13 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aryan980520&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+# 🐍 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryan980520/Aryan980520/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryan980520/Aryan980520/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aryan980520/Aryan980520/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 [![](https://komarev.com/ghpvc/?username=Aryan980520&icon=0&color=0)](https://visitcount.itsvg.in)
